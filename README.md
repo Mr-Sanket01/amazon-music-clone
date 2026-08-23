@@ -19,9 +19,9 @@ A responsive Amazon Music Clone built using **HTML5** and **CSS3**. This project
 - Flexbox
 - CSS Grid
 
-## 📸 Screenshot
+## 📸 Preview
 
-(Add a screenshot here later)
+![Amazon Music Clone](screenshots/homepage.png)
 
 ## 📂 Project Structure
 
