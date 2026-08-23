@@ -36,4 +36,4 @@ amazon-music-clone/
 
 **Sanket Jadhav**
 
-LinkedIn: *(Add your LinkedIn URL here later)*
+LinkedIn: *www.linkedin.com/in/Mr-sanket-jadhav-1377x*
